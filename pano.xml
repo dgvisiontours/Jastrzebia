@@ -1,402 +1,402 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="6.1.9" start="node9" apprev="17983">
+<tour apprev="17983" appversion="6.1.9" start="node9">
   <panorama id="node17">
-    <input levelbiashidpi="1.000" levelingroll="-0.0504331" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="0.122063" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="-0.0504331" levelingpitch="0.122063" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="230.153">
-      <start fov="133.174" projection="4" pan="-177.759" tilt="1.27326"/>
-      <flyin fov="120" projection="4" pan="-177.71" tilt="90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="230.153" fovmode="3">
+      <start projection="4" tilt="1.27326" pan="-177.759" fov="133.174"/>
+      <flyin projection="4" tilt="90" pan="-177.71" fov="120"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Willa Nord - wejście" author="" comment="" nodeid="node17" latitude="54.83157004" longitude="18.29989806" customnodeid="" heading="230.153" datetime="03.04.2022 15:00" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-178.52" description="" tilt="-2.93" title="Bursztyn i Perła" target="$fwd" id="Point01" distance="20.4602" url="{node15}"/>
+    <userdata tags="Edited" longitude="18.29989806" source="" customnodeid="" datetime="03.04.2022 15:00" comment="" description="" nodeid="node17" heading="230.153" title="Willa Nord - wejście" copyright="" latitude="54.83157004" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node15}" distance="20.4602" target="$fwd" description="" id="Point01" tilt="-2.93" skinid="ht_node" pan="-178.52" title="Bursztyn i Perła"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node15">
-    <input levelbiashidpi="1.000" levelingroll="-0.13881" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="0.261851" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="-0.13881" levelingpitch="0.261851" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="175.147">
-      <start fov="133.174" projection="4" pan="152.826" tilt="-5.86952"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="175.147" fovmode="3">
+      <start projection="4" tilt="-5.86952" pan="152.826" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Bursztyn i Perła" author="" comment="" nodeid="node15" latitude="54.83167895" longitude="18.30015555" customnodeid="" heading="175.147" datetime="03.04.2022 14:57" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-78.27" description="" tilt="-5.41" title="Willa Nord - wejście" target="$fwd" id="Point01" distance="20.4602" url="{node17}"/>
-      <hotspot skinid="ht_node" pan="-182.15" description="" tilt="-4.6" title="Bursztyn - kuchnia" target="$fwd" id="Point02" distance="1.20889" url="{node1}"/>
-      <hotspot skinid="ht_node" pan="-259.43" description="" tilt="-5.11" title="Perła - korytarz" target="$fwd" id="Point03" distance="2.39351" url="{node13}"/>
+    <userdata tags="Edited" longitude="18.30015555" source="" customnodeid="" datetime="03.04.2022 14:57" comment="" description="" nodeid="node15" heading="175.147" title="Bursztyn i Perła" copyright="" latitude="54.83167895" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node17}" distance="20.4602" target="$fwd" description="" id="Point01" tilt="-5.41" skinid="ht_node" pan="-78.27" title="Willa Nord - wejście"/>
+      <hotspot url="{node1}" distance="1.20889" target="$fwd" description="" id="Point02" tilt="-4.6" skinid="ht_node" pan="-182.15" title="Bursztyn - kuchnia"/>
+      <hotspot url="{node13}" distance="2.39351" target="$fwd" description="" id="Point03" tilt="-5.11" skinid="ht_node" pan="-259.43" title="Perła - korytarz"/>
     </hotspots>
     <media>
-      <image fov="53.508" pan="-174.070" clickmode="0" width="400" tilt="14.420" id="Element01" rotz="0.000" handcursor="0" stretch="1.000" height="224" roty="-17.000" rotx="3.000">
+      <image stretch="1.000" handcursor="0" height="224" roty="-17.000" clickmode="0" id="Element01" tilt="14.420" pan="-174.070" rotx="3.000" rotz="0.000" width="400" fov="53.508">
         <source url="media/Bursztyn - logo.png"/>
       </image>
-      <image fov="40.295" pan="-261.810" clickmode="0" width="400" tilt="5.480" id="Element02" rotz="0.000" handcursor="0" stretch="1.000" height="224" roty="10.000" rotx="-1.000">
+      <image stretch="1.000" handcursor="0" height="224" roty="10.000" clickmode="0" id="Element02" tilt="5.480" pan="-261.810" rotx="-1.000" rotz="0.000" width="400" fov="40.295">
         <source url="media/Perła - logo.png"/>
       </image>
     </media>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node1">
-    <input levelbiashidpi="1.000" levelingroll="0.328177" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.103876" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.328177" levelingpitch="-0.103876" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="-26.2166">
-      <start fov="133.174" projection="4" pan="15.7942" tilt="-6.60795"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="-26.2166" fovmode="3">
+      <start projection="4" tilt="-6.60795" pan="15.7942" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Bursztyn - kuchnia" author="" comment="" nodeid="node1" latitude="54.83168976" longitude="18.30015354" customnodeid="" heading="-26.2166" datetime="03.04.2022 14:27" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-223.08" description="" tilt="-6.23" title="Bursztyn i Perła" target="$fwd" id="Point01" distance="1.20889" url="{node15}"/>
-      <hotspot skinid="ht_node" pan="-43.9" description="" tilt="-6.46" title="Bursztyn - salon" target="$fwd" id="Point02" distance="0.949045" url="{node2}"/>
-      <hotspot skinid="ht_node" pan="-342.4" description="" tilt="-6.54" title="Bursztyn - sypialnia" target="$fwd" id="Point03" distance="1.06055" url="{node4}"/>
-      <hotspot skinid="ht_node" pan="-280.02" description="" tilt="-5.86" title="Bursztyn - łazienka" target="$fwd" id="Point04" distance="0.783541" url="{node6}"/>
+    <userdata tags="Edited" longitude="18.30015354" source="" customnodeid="" datetime="03.04.2022 14:27" comment="" description="" nodeid="node1" heading="-26.2166" title="Bursztyn - kuchnia" copyright="" latitude="54.83168976" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node15}" distance="1.20889" target="$fwd" description="" id="Point01" tilt="-6.23" skinid="ht_node" pan="-223.08" title="Bursztyn i Perła"/>
+      <hotspot url="{node2}" distance="0.949045" target="$fwd" description="" id="Point02" tilt="-6.46" skinid="ht_node" pan="-43.9" title="Bursztyn - salon"/>
+      <hotspot url="{node4}" distance="1.06055" target="$fwd" description="" id="Point03" tilt="-6.54" skinid="ht_node" pan="-342.4" title="Bursztyn - sypialnia"/>
+      <hotspot url="{node6}" distance="0.783541" target="$fwd" description="" id="Point04" tilt="-5.86" skinid="ht_node" pan="-280.02" title="Bursztyn - łazienka"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node2">
-    <input levelbiashidpi="1.000" levelingroll="0.468054" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.201457" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.468054" levelingpitch="-0.201457" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="-7.06616">
-      <start fov="133.174" projection="4" pan="-13.7414" tilt="-8.18111"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="-7.06616" fovmode="3">
+      <start projection="4" tilt="-8.18111" pan="-13.7414" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Bursztyn - salon" author="" comment="" nodeid="node2" latitude="54.83169826" longitude="18.30015220" customnodeid="" heading="-7.06616" datetime="03.04.2022 14:27" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-204.04" description="" tilt="-6.24" title="Bursztyn - kuchnia" target="$fwd" id="Point01" distance="0.949045" url="{node1}"/>
-      <hotspot skinid="ht_node" pan="-12.11" description="" tilt="-12.57" title="Bursztyn - salon" target="$fwd" id="Point02" distance="0.720914" url="{node3}"/>
+    <userdata tags="Edited" longitude="18.30015220" source="" customnodeid="" datetime="03.04.2022 14:27" comment="" description="" nodeid="node2" heading="-7.06616" title="Bursztyn - salon" copyright="" latitude="54.83169826" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node1}" distance="0.949045" target="$fwd" description="" id="Point01" tilt="-6.24" skinid="ht_node" pan="-204.04" title="Bursztyn - kuchnia"/>
+      <hotspot url="{node3}" distance="0.720914" target="$fwd" description="" id="Point02" tilt="-12.57" skinid="ht_node" pan="-12.11" title="Bursztyn - salon"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node3">
-    <input levelbiashidpi="1.000" levelingroll="0.691994" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.335491" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.691994" levelingpitch="-0.335491" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="-14.3352">
-      <start fov="133.174" projection="4" pan="166.746" tilt="-13.4678"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="-14.3352" fovmode="3">
+      <start projection="4" tilt="-13.4678" pan="166.746" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Bursztyn - salon" author="" comment="" nodeid="node3" latitude="54.83170406" longitude="18.30015723" customnodeid="" heading="-14.3352" datetime="03.04.2022 14:28" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-204.68" description="" tilt="-6.69" title="Bursztyn - salon" target="$fwd" id="Point01" distance="0.720914" url="{node2}"/>
+    <userdata tags="Edited" longitude="18.30015723" source="" customnodeid="" datetime="03.04.2022 14:28" comment="" description="" nodeid="node3" heading="-14.3352" title="Bursztyn - salon" copyright="" latitude="54.83170406" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node2}" distance="0.720914" target="$fwd" description="" id="Point01" tilt="-6.69" skinid="ht_node" pan="-204.68" title="Bursztyn - salon"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node4">
-    <input levelbiashidpi="1.000" levelingroll="0.634454" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.489806" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.634454" levelingpitch="-0.489806" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="173.674">
-      <start fov="133.174" projection="4" pan="-153.84" tilt="-15.2089"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="173.674" fovmode="3">
+      <start projection="4" tilt="-15.2089" pan="-153.84" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Bursztyn - sypialnia" author="" comment="" nodeid="node4" latitude="54.83169478" longitude="18.30013946" customnodeid="" heading="173.674" datetime="03.04.2022 14:28" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-338.22" description="" tilt="-10.35" title="Bursztyn - kuchnia" target="$fwd" id="Point01" distance="1.06055" url="{node1}"/>
-      <hotspot skinid="ht_node" pan="-168.55" description="" tilt="-5.95" title="Bursztyn - sypialnia" target="$fwd" id="Point02" distance="0.98126" url="{node5}"/>
+    <userdata tags="Edited" longitude="18.30013946" source="" customnodeid="" datetime="03.04.2022 14:28" comment="" description="" nodeid="node4" heading="173.674" title="Bursztyn - sypialnia" copyright="" latitude="54.83169478" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node1}" distance="1.06055" target="$fwd" description="" id="Point01" tilt="-10.35" skinid="ht_node" pan="-338.22" title="Bursztyn - kuchnia"/>
+      <hotspot url="{node5}" distance="0.98126" target="$fwd" description="" id="Point02" tilt="-5.95" skinid="ht_node" pan="-168.55" title="Bursztyn - sypialnia"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node5">
-    <input levelbiashidpi="1.000" levelingroll="0.802852" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.585932" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.802852" levelingpitch="-0.585932" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="171.948">
-      <start fov="133.174" projection="4" pan="33.6495" tilt="-14.3212"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="171.948" fovmode="3">
+      <start projection="4" tilt="-14.3212" pan="33.6495" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Bursztyn - sypialnia" author="" comment="" nodeid="node5" latitude="54.83170289" longitude="18.30013342" customnodeid="" heading="171.948" datetime="03.04.2022 14:28" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-331.47" description="" tilt="-4.57" title="Bursztyn - sypialnia" target="$fwd" id="Point01" distance="0.98126" url="{node4}"/>
+    <userdata tags="Edited" longitude="18.30013342" source="" customnodeid="" datetime="03.04.2022 14:28" comment="" description="" nodeid="node5" heading="171.948" title="Bursztyn - sypialnia" copyright="" latitude="54.83170289" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node4}" distance="0.98126" target="$fwd" description="" id="Point01" tilt="-4.57" skinid="ht_node" pan="-331.47" title="Bursztyn - sypialnia"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node6">
-    <input levelbiashidpi="1.000" levelingroll="0.803167" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.215768" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.803167" levelingpitch="-0.215768" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="172.322">
-      <start fov="133.174" projection="4" pan="-158.86" tilt="-8.29907"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="172.322" fovmode="3">
+      <start projection="4" tilt="-8.29907" pan="-158.86" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Bursztyn - łazienka" author="" comment="" nodeid="node6" latitude="54.83168861" longitude="18.30014147" customnodeid="" heading="172.322" datetime="03.04.2022 14:29" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-272.12" description="" tilt="-10.67" title="Bursztyn - kuchnia" target="$fwd" id="Point01" distance="0.783541" url="{node1}"/>
+    <userdata tags="Edited" longitude="18.30014147" source="" customnodeid="" datetime="03.04.2022 14:29" comment="" description="" nodeid="node6" heading="172.322" title="Bursztyn - łazienka" copyright="" latitude="54.83168861" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node1}" distance="0.783541" target="$fwd" description="" id="Point01" tilt="-10.67" skinid="ht_node" pan="-272.12" title="Bursztyn - kuchnia"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node13">
-    <input levelbiashidpi="1.000" levelingroll="0.7345159999999999" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.88842" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.7345159999999999" levelingpitch="-0.88842" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="170.085">
-      <start fov="133.174" projection="4" pan="89.9499" tilt="-3.41391"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="170.085" fovmode="3">
+      <start projection="4" tilt="-3.41391" pan="89.9499" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Perła - korytarz" author="" comment="" nodeid="node13" latitude="54.83168243" longitude="18.30019243" customnodeid="" heading="170.085" datetime="03.04.2022 14:54" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-87.46" description="" tilt="-6.24" title="Bursztyn i Perła" target="$fwd" id="Point01" distance="2.39351" url="{node15}"/>
-      <hotspot skinid="ht_node" pan="-269.95" description="" tilt="-7.94" title="Perła - salon" target="$fwd" id="Point02" distance="4.35143" url="{node10}"/>
-      <hotspot skinid="ht_node" pan="-216.4" description="" tilt="-4.72" title="Perła - łazienka" target="$fwd" id="Point03" distance="1.75217" url="{node14}"/>
+    <userdata tags="Edited" longitude="18.30019243" source="" customnodeid="" datetime="03.04.2022 14:54" comment="" description="" nodeid="node13" heading="170.085" title="Perła - korytarz" copyright="" latitude="54.83168243" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node15}" distance="2.39351" target="$fwd" description="" id="Point01" tilt="-6.24" skinid="ht_node" pan="-87.46" title="Bursztyn i Perła"/>
+      <hotspot url="{node10}" distance="4.35143" target="$fwd" description="" id="Point02" tilt="-7.94" skinid="ht_node" pan="-269.95" title="Perła - salon"/>
+      <hotspot url="{node14}" distance="1.75217" target="$fwd" description="" id="Point03" tilt="-4.72" skinid="ht_node" pan="-216.4" title="Perła - łazienka"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node10">
-    <input levelbiashidpi="1.000" levelingroll="-0.00998806" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.327491" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="-0.00998806" levelingpitch="-0.327491" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="263.127">
-      <start fov="133.174" projection="4" pan="-92.0879" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="263.127" fovmode="3">
+      <start projection="4" tilt="0" pan="-92.0879" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Perła - salon" author="" comment="" nodeid="node10" latitude="54.83167934" longitude="18.30026016" customnodeid="" heading="263.127" datetime="03.04.2022 14:52" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-15.79" description="" tilt="-6.27" title="Perła - korytarz" target="$fwd" id="Point01" distance="4.35143" url="{node13}"/>
-      <hotspot skinid="ht_node" pan="-90.02" description="" tilt="-4.33" title="Perła - salon" target="$fwd" id="Point02" distance="1.8446" url="{node9}"/>
-      <hotspot skinid="ht_node" pan="-248.63" description="" tilt="-5.74" title="Perła - taras" target="$fwd" id="Point03" distance="5.16359" url="{node11}"/>
+    <userdata tags="Edited" longitude="18.30026016" source="" customnodeid="" datetime="03.04.2022 14:52" comment="" description="" nodeid="node10" heading="263.127" title="Perła - salon" copyright="" latitude="54.83167934" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node13}" distance="4.35143" target="$fwd" description="" id="Point01" tilt="-6.27" skinid="ht_node" pan="-15.79" title="Perła - korytarz"/>
+      <hotspot url="{node9}" distance="1.8446" target="$fwd" description="" id="Point02" tilt="-4.33" skinid="ht_node" pan="-90.02" title="Perła - salon"/>
+      <hotspot url="{node11}" distance="5.16359" target="$fwd" description="" id="Point03" tilt="-5.74" skinid="ht_node" pan="-248.63" title="Perła - taras"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node9">
-    <input levelbiashidpi="1.000" levelingroll="0.30105" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.738859" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.30105" levelingpitch="-0.738859" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="172.283">
-      <start fov="133.174" projection="4" pan="36.65" tilt="-15.23"/>
-      <flyin fov="120" projection="4" pan="-122.17" tilt="-12.11"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="172.283" fovmode="3">
+      <start projection="4" tilt="-15.23" pan="36.65" fov="133.174"/>
+      <flyin projection="4" tilt="-12.11" pan="-122.17" fov="120"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Perła - salon" author="" comment="" nodeid="node9" latitude="54.83169556" longitude="18.30025412" customnodeid="" heading="172.283" datetime="03.04.2022 14:52" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-352.65" description="" tilt="-4.33" title="Perła - salon" target="$fwd" id="Point01" distance="1.8446" url="{node10}"/>
-      <hotspot skinid="ht_node" pan="-177.72" description="" tilt="-5.75" title="Perła - sypialnia" target="$fwd" id="Point02" distance="1.4587" url="{node7}"/>
-      <hotspot skinid="ht_node" pan="-48.26" description="" tilt="-4.29" title="Perła - korytarz" target="$fwd" id="Point03" distance="4.21212" url="{node13}"/>
+    <userdata tags="Edited" longitude="18.30025412" source="" customnodeid="" datetime="03.04.2022 14:52" comment="" description="" nodeid="node9" heading="172.283" title="Perła - salon" copyright="" latitude="54.83169556" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node10}" distance="1.8446" target="$fwd" description="" id="Point01" tilt="-4.33" skinid="ht_node" pan="-352.65" title="Perła - salon"/>
+      <hotspot url="{node7}" distance="1.4587" target="$fwd" description="" id="Point02" tilt="-5.75" skinid="ht_node" pan="-177.72" title="Perła - sypialnia"/>
+      <hotspot url="{node13}" distance="4.21212" target="$fwd" description="" id="Point03" tilt="-4.29" skinid="ht_node" pan="-48.26" title="Perła - korytarz"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node11">
-    <input levelbiashidpi="1.000" levelingroll="0.301748" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.694724" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.301748" levelingpitch="-0.694724" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="-6.30778">
-      <start fov="133.174" projection="4" pan="-173.111" tilt="-6.70454"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="-6.30778" fovmode="3">
+      <start projection="4" tilt="-6.70454" pan="-173.111" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Perła - taras" author="" comment="" nodeid="node11" latitude="54.83163376" longitude="18.30027558" customnodeid="" heading="-6.30778" datetime="03.04.2022 14:53" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-358.58" description="" tilt="-5.82" title="Perła - salon" target="$fwd" id="Point01" distance="5.16359" url="{node10}"/>
+    <userdata tags="Edited" longitude="18.30027558" source="" customnodeid="" datetime="03.04.2022 14:53" comment="" description="" nodeid="node11" heading="-6.30778" title="Perła - taras" copyright="" latitude="54.83163376" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node10}" distance="5.16359" target="$fwd" description="" id="Point01" tilt="-5.82" skinid="ht_node" pan="-358.58" title="Perła - salon"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node7">
-    <input levelbiashidpi="1.000" levelingroll="0.634842" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-1.05774" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.634842" levelingpitch="-1.05774" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="171.848">
-      <start fov="133.174" projection="4" pan="147.241" tilt="-22.0145"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="171.848" fovmode="3">
+      <start projection="4" tilt="-22.0145" pan="147.241" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Perła - sypialnia" author="" comment="" nodeid="node7" latitude="54.83170831" longitude="18.30024876" customnodeid="" heading="171.848" datetime="03.04.2022 14:51" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-355.15" description="" tilt="-6.55" title="Perła - salon" target="$fwd" id="Point01" distance="1.4587" url="{node9}"/>
-      <hotspot skinid="ht_node" pan="-211.11" description="" tilt="-4.61" title="Perła - sypialnia" target="$fwd" id="Point02" distance="1.76264" url="{node8}"/>
+    <userdata tags="Edited" longitude="18.30024876" source="" customnodeid="" datetime="03.04.2022 14:51" comment="" description="" nodeid="node7" heading="171.848" title="Perła - sypialnia" copyright="" latitude="54.83170831" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node9}" distance="1.4587" target="$fwd" description="" id="Point01" tilt="-6.55" skinid="ht_node" pan="-355.15" title="Perła - salon"/>
+      <hotspot url="{node8}" distance="1.76264" target="$fwd" description="" id="Point02" tilt="-4.61" skinid="ht_node" pan="-211.11" title="Perła - sypialnia"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node8">
-    <input levelbiashidpi="1.000" levelingroll="0.543746" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.348548" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.543746" levelingpitch="-0.348548" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="167.192">
-      <start fov="133.174" projection="4" pan="-29.6647" tilt="-22.4775"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="167.192" fovmode="3">
+      <start projection="4" tilt="-22.4775" pan="-29.6647" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Perła - sypialnia" author="" comment="" nodeid="node8" latitude="54.83172144" longitude="18.30026418" customnodeid="" heading="167.192" datetime="03.04.2022 14:51" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-29.14" description="" tilt="-4.92" title="Perła - sypialnia" target="$fwd" id="Point01" distance="1.76264" url="{node7}"/>
+    <userdata tags="Edited" longitude="18.30026418" source="" customnodeid="" datetime="03.04.2022 14:51" comment="" description="" nodeid="node8" heading="167.192" title="Perła - sypialnia" copyright="" latitude="54.83172144" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node7}" distance="1.76264" target="$fwd" description="" id="Point01" tilt="-4.92" skinid="ht_node" pan="-29.14" title="Perła - sypialnia"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <panorama id="node14">
-    <input levelbiashidpi="1.000" levelingroll="0.644357" leveltilesize="510" overlap="1" width="1680" levelbias="0.400" height="1680" levelingpitch="-0.9298650000000001" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="1680" predecode="0" height="1680" preload="0"/>
-      <level width="840" predecode="0" height="840" preload="0"/>
-      <level width="420" predecode="1" height="420" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1680" levelbiashidpi="1.000" levelingroll="0.644357" levelingpitch="-0.9298650000000001" width="1680" leveltilesize="510" levelbias="0.400">
+      <level height="1680" preload="0" width="1680" predecode="0"/>
+      <level height="840" preload="0" width="840" predecode="0"/>
+      <level height="420" preload="1" width="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="3" pannorth="177.322">
-      <start fov="133.174" projection="4" pan="121.897" tilt="-18.1829"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    <view pannorth="177.322" fovmode="3">
+      <start projection="4" tilt="-18.1829" pan="121.897" fov="133.174"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
     </view>
-    <userdata source="" description="" title="Perła - łazienka" author="" comment="" nodeid="node14" latitude="54.83169749" longitude="18.30020048" customnodeid="" heading="177.322" datetime="03.04.2022 14:55" copyright="" info="" tags="Edited"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" background="1" borderalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" pan="-13.17" description="" tilt="-2.53" title="Perła - korytarz" target="$fwd" id="Point01" distance="1.75217" url="{node13}"/>
+    <userdata tags="Edited" longitude="18.30020048" source="" customnodeid="" datetime="03.04.2022 14:55" comment="" description="" nodeid="node14" heading="177.322" title="Perła - łazienka" copyright="" latitude="54.83169749" author="" info=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label border="1" bordercolor="0x000000" height="20" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node13}" distance="1.75217" target="$fwd" description="" id="Point01" tilt="-2.53" skinid="ht_node" pan="-13.17" title="Perła - korytarz"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="0" softedge="0" zoomin="0" zoomfov="50" blendcolor="0x000000" zoomout="0" enabled="1" zoomspeed="4" type="crossdissolve" blendtime="1"/>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="0" blendcolor="0x000000" softedge="0" zoomout="0" zoomspeed="4" blendtime="1" zoomfov="50" enabled="1"/>
     <flyintransition speed="1.20" enabled="1"/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" speedwheel="1" simulatemass="1" contextprojections="0" dblclickfullscreen="1" invertwheel="1" lockedmouse="0" hideabout="0" rubberband="0" invertcontrol="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="1" sensitivity="8" contextfullscreen="1" contextprojections="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1"/>
   </panorama>
   <masternode>
-    <userdata source="" description="" title="" author="" comment="" nodeid="master" latitude="" longitude="" customnodeid="" heading="0" datetime="" copyright="" info="" tags=""/>
+    <userdata tags="" longitude="" source="" customnodeid="" datetime="" comment="" description="" nodeid="master" heading="0" title="" copyright="" latitude="" author="" info=""/>
   </masternode>
 </tour>

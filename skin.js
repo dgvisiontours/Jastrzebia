@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.9/17983
 // Filename: Jastrzebia_skin.ggsk
-// Generated 2022-09-22T20:56:02
+// Generated 2022-09-22T20:58:23
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
